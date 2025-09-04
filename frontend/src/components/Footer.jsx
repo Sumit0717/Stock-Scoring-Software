@@ -19,7 +19,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-4 text-center text-yellow-500 text-xs">
-        Built with by Sahil Beniwal • Powered by FastAPI + Gemini + Mern Stack
+        Built with by Sahil Beniwal & Sumit Sharma • Powered by FastAPI + Gemini + Mern Stack
       </div>
     </footer>
   );
